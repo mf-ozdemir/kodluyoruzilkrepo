@@ -15,7 +15,7 @@ https://github.com/mf-ozdemir/kodluyoruzilkrepo.git
 
 Projeyi cloneladıktan sonra Visual Studio Code Programında açınız.
 
-Linux için:
+Linux için :
 ```
 cd kodluyoruzilkrepo
 code .
